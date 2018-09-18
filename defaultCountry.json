@@ -1,0 +1,378 @@
+{
+	"Country":{
+		"Name":{
+			"Afghanistan":{"Code":"AF"},
+			"Albania":{"Code":"AL"},
+			"Algeria":{"Code":"DZ"},
+			"American Samoa":{"Code":"AS"},
+			"Andorra":{"Code":"AD"},
+			"Angola":{"Code":"AO"},
+			"Anguilla":{"Code":"AI"},
+			"Antigua and Barbuda":{"Code":"AG"},
+			"Argentina":{"Code":"AR"},
+			"Armenia":{"Code":"AM"},
+			"Aruba":{"Code":"AW"},
+			"Australia":{"Code":"AU"},
+			"Austria":{"Code":"AT"},
+			"Azerbaijan":{"Code":"AZ"},
+			"Azores":{"Code":"PT"},
+			"Bahamas":{"Code":"BS"},
+			"Bahrain":{"Code":"BH"},
+			"Bangladesh":{"Code":"BD"},
+			"Barbados":{"Code":"BB"},
+			"Belarus":{"Code":"BY"},
+			"Belgium":{"Code":"BE"},
+			"Belize":{"Code":"BZ"},
+			"Benin":{"Code":"BJ"},
+			"Bermuda":{"Code":"BM"},
+			"Bhutan":{"Code":"BT"},
+			"Bolivia":{"Code":"BO"},
+			"Bonaire":{"Code":"AN"},
+			"Bosnia":{"Code":"BA"},
+			"Botswana":{"Code":"BW"},
+			"Brazil":{"Code":"BR"},
+			"British Virgin Islands":{"Code":"VG"},
+			"Brunei":{"Code":"BN"},
+			"Bulgaria":{"Code":"BG"},
+			"Burkina Faso":{"Code":"BF"},
+			"Burundi":{"Code":"BI"},
+			"Cambodia":{"Code":"KH"},
+			"Cameroon":{"Code":"CM"},
+			"Canada":{"Code":"CA"},
+			"Canary Islands":{"Code":"ES"},
+			"Cape Verde Island":{"Code":"CV"},
+			"Cayman Islands":{"Code":"KY"},
+			"Central African Republic":{"Code":"CF"},
+			"Chad":{"Code":"TD"},
+			"Chile":{"Code":"CL"},
+			"China, People’s Republic of":{"Code":"CN"},
+			"Colombia":{"Code":"CO"},
+			"Comoros":{"Code":"KM"},
+			"Congo":{"Code":"CG"},
+			"Congo, The Democratic Republic of":{"Code":"CD"},
+			"Cook Islands":{"Code":"CK"},
+			"Costa Rica":{"Code":"CR"},
+			"Croatia":{"Code":"HR"},
+			"Curacao":{"Code":"AN"},
+			"Cyprus":{"Code":"CY"},
+			"Czech Republic":{"Code":"CZ"},
+			"Denmark":{"Code":"DK"},
+			"Djibouti":{"Code":"DJ"},
+			"Dominica":{"Code":"DM"},
+			"Dominican Republic":{"Code":"DO"},
+			"East Timor":{"Code":"TL"},
+			"Ecuador":{"Code":"EC"},
+			"Egypt":{"Code":"EG"},
+			"El Salvador":{"Code":"SV"},
+			"England":{"Code":"GB"},
+			"Equatorial Guinea":{"Code":"GQ"},
+			"Eritrea":{"Code":"ER"},
+			"Estonia":{"Code":"EE"},
+			"Ethiopia":{"Code":"ET"},
+			"Europe":{"Code":"EP"},
+			"Faeroe Islands":{"Code":"FO"},
+			"Fiji":{"Code":"FJ"},
+			"Finland":{"Code":"FI"},
+			"France":{"Code":"FR"},
+			"French Guiana":{"Code":"GF"},
+			"French Polynesia":{"Code":"PF"},
+			"Gabon":{"Code":"GA"},
+			"Gambia":{"Code":"GM"},
+			"Georgia":{"Code":"GE"},
+			"Germany":{"Code":"DE"},
+			"Ghana":{"Code":"GH"},
+			"Gibraltar":{"Code":"GI"},
+			"Greece":{"Code":"GR"},
+			"Greenland":{"Code":"GL"},
+			"Grenada":{"Code":"GD"},
+			"Guadeloupe":{"Code":"GP"},
+			"Guam":{"Code":"GU"},
+			"Guatemala":{"Code":"GT"},
+			"Guernsey":{"Code":"GG"},
+			"Guinea":{"Code":"GN"},
+			"Guinea-Bissau":{"Code":"GW"},
+			"Guyana":{"Code":"GY"},
+			"Haiti":{"Code":"HT"},
+			"Holland":{"Code":"NL"},
+			"Honduras":{"Code":"HN"},
+			"Hong Kong":{"Code":"HK"},
+			"Hungary":{"Code":"HU"},
+			"Iceland":{"Code":"IS"},
+			"India":{"Code":"IN"},
+			"Indonesia":{"Code":"ID"},
+			"Iraq":{"Code":"IQ"},
+			"Ireland, Republic of":{"Code":"IE"},
+			"Israel":{"Code":"IL"},
+			"Italy":{"Code":"IT"},
+			"Ivory Coast":{"Code":"CI"},
+			"Jamaica":{"Code":"JM"},
+			"Japan":{"Code":"JP"},
+			"Jersey":{"Code":"JE"},
+			"Jordan":{"Code":"JO"},
+			"Kazakhstan":{"Code":"KZ"},
+			"Kenya":{"Code":"KE"},
+			"Kiribati":{"Code":"KI"},
+			"Korea, South":{"Code":"KR"},
+			"Kosrae":{"Code":"FM"},
+			"Kuwait":{"Code":"KW"},
+			"Kyrgyzstan":{"Code":"KG"},
+			"Laos":{"Code":"LA"},
+			"Latvia":{"Code":"LV"},
+			"Lebanon":{"Code":"LB"},
+			"Lesotho":{"Code":"LS"},
+			"Liberia":{"Code":"LR"},
+			"Libya":{"Code":"LY"},
+			"Liechtenstein":{"Code":"LI"},
+			"Lithuania":{"Code":"LT"},
+			"Luxembourg":{"Code":"LU"},
+			"Macau":{"Code":"MO"},
+			"Macedonia (FYROM)":{"Code":"MK"},
+			"Madagascar":{"Code":"MG"},
+			"Madeira":{"Code":"PT"},
+			"Malawi":{"Code":"MW"},
+			"Malaysia":{"Code":"MY"},
+			"Maldives":{"Code":"MV"},
+			"Mali":{"Code":"ML"},
+			"Malta":{"Code":"MT"},
+			"Marshall Islands":{"Code":"MH"},
+			"Martinique":{"Code":"MQ"},
+			"Mauritania":{"Code":"MR"},
+			"Mauritius":{"Code":"MU"},
+			"Mayotte":{"Code":"YT"},
+			"Mexico":{"Code":"MX"},
+			"Micronesia, Federated States of":{"Code":"FM"},
+			"Moldova":{"Code":"MD"},
+			"Monaco":{"Code":"MC"},
+			"Mongolia":{"Code":"MN"},
+			"Montenegro":{"Code":"ME"},
+			"Montserrat":{"Code":"MS"},
+			"Morocco":{"Code":"MA"},
+			"Mozambique":{"Code":"MZ"},
+			"Namibia":{"Code":"NA"},
+			"Nepal":{"Code":"NP"},
+			"Netherlands":{"Code":"NL"},
+			"Netherlands Antilles":{"Code":"AN"},
+			"New Caledonia":{"Code":"NC"},
+			"New Zealand":{"Code":"NZ"},
+			"Nicaragua":{"Code":"NI"},
+			"Niger":{"Code":"NE"},
+			"Nigeria":{"Code":"NG"},
+			"Norfolk Island":{"Code":"NF"},
+			"Northern Ireland":{"Code":"GB"},
+			"Northern Mariana Islands":{"Code":"MP"},
+			"Norway":{"Code":"NO"},
+			"Oman":{"Code":"OM"},
+			"Pakistan":{"Code":"PK"},
+			"Palau":{"Code":"PW"},
+			"Panama":{"Code":"PA"},
+			"Papua New Guinea":{"Code":"PG"},
+			"Paraguay":{"Code":"PY"},
+			"Peru":{"Code":"PE"},
+			"Philippines":{"Code":"PH"},
+			"Poland":{"Code":"PL"},
+			"Ponape":{"Code":"FM"},
+			"Portugal":{"Code":"PT"},
+			"Puerto Rico":{"Code":"PR"},
+			"Qatar":{"Code":"QA"},
+			"Reunion":{"Code":"RE"},
+			"Romania":{"Code":"RO"},
+			"Rota":{"Code":"MP"},
+			"Russia":{"Code":"RU"},
+			"Rwanda":{"Code":"RW"},
+			"Saba":{"Code":"AN"},
+			"Saipan":{"Code":"MP"},
+			"Samoa":{"Code":"WS"},
+			"San Marino":{"Code":"SM"},
+			"Saudi Arabia":{"Code":"SA"},
+			"Scotland":{"Code":"GB"},
+			"Senegal":{"Code":"SN"},
+			"Serbia":{"Code":"RS"},
+			"Seychelles":{"Code":"SC"},
+			"Sierra Leone":{"Code":"SL"},
+			"Singapore":{"Code":"SG"},
+			"Slovakia":{"Code":"SK"},
+			"Slovenia":{"Code":"SI"},
+			"Solomon Islands":{"Code":"SB"},
+			"South Africa":{"Code":"ZA"},
+			"Spain":{"Code":"ES"},
+			"Sri Lanka":{"Code":"LK"},
+			"St. Barthelemy":{"Code":"GP"},
+			"St. Christopher":{"Code":"KN"},
+			"St. Croix":{"Code":"VI"},
+			"St. Eustatius":{"Code":"AN"},
+			"St. John":{"Code":"VI"},
+			"St. Kitts and Nevis":{"Code":"KN"},
+			"St. Lucia":{"Code":"LC"},
+			"St. Maarten":{"Code":"AN"},
+			"St. Martin":{"Code":"GP"},
+			"St. Thomas":{"Code":"VI"},
+			"St. Vincent and the Grenadines":{"Code":"VC"},
+			"Suriname":{"Code":"SR"},
+			"Swaziland":{"Code":"SZ"},
+			"Sweden":{"Code":"SE"},
+			"Switzerland":{"Code":"CH"},
+			"Tahiti":{"Code":"PF"},
+			"Taiwan":{"Code":"TW"},
+			"Tajikistan":{"Code":"TJ"},
+			"Tanzania":{"Code":"TZ"},
+			"Thailand":{"Code":"TH"},
+			"Tinian":{"Code":"MP"},
+			"Togo":{"Code":"TG"},
+			"Tonga":{"Code":"TO"},
+			"Tortola":{"Code":"VG"},
+			"Trinidad and Tobago":{"Code":"TT"},
+			"Truk":{"Code":"FM"},
+			"Tunisia":{"Code":"TN"},
+			"Turkey":{"Code":"TR"},
+			"Turkmenistan":{"Code":"TM"},
+			"Turks and Caicos Islands":{"Code":"TC"},
+			"Tuvalu":{"Code":"TV"},
+			"U.S. Virgin Islands":{"Code":"VI"},
+			"Uganda":{"Code":"UG"},
+			"Ukraine":{"Code":"UA"},
+			"Union Island":{"Code":"VC"},
+			"United Arab Emirates":{"Code":"AE"},
+			"United Kingdom":{"Code":"GB"},
+			"United States":{"Code":"US"},
+			"Uruguay":{"Code":"UY"},
+			"Uzbekistan":{"Code":"UZ"},
+			"Vanuatu":{"Code":"VU"},
+			"Vatican City State":{"Code":"VA"},
+			"Venezuela":{"Code":"VE"},
+			"Vietnam":{"Code":"VN"},
+			"Virgin Gorda":{"Code":"VG"},
+			"Wales":{"Code":"GB"},
+			"Wallis and Futuna Islands":{"Code":"WF"},
+			"Yap":{"Code":"FM"},
+			"Yemen":{"Code":"YE"},
+			"Zambia":{"Code":"ZM"},
+			"Zimbabwe":{"Code":"ZW"}
+		}
+	},
+	"Service":{
+		"Type":{
+			"United States":{
+				"Shipments originating in United States":{
+					"UPS Standard":{
+						"Shipping":"11",
+						"Rating":"11"
+					},
+					"UPS Worldwide Expediter":{
+						"Shipping":"08",
+						"Rating":"08"
+					},
+					"UPS Worldwide Express":{
+						"Shipping":"07",
+						"Rating":"07"
+					},
+					"UPS Worldwide Express Plus":{
+						"Shipping":"54",
+						"Rating":"54"
+					},
+					"UPS Worldwide Saver":{
+						"Shipping":"65",
+						"Rating":"65"
+					}
+				},
+				"United States Domestic Shipments":{
+					"UPS 2nd Day Air":{
+						"Shipping":"02",
+						"Rating":"02"
+					},
+					"UPS 2nd Day Air A.M.":{
+						"Shipping:":"59",
+						"Rating":"59"
+					},
+					"UPS 3 Day Select":{
+						"Shipping":"12",
+						"Rating":"12"
+					},
+					"UPS Expedited Main Innovations":{
+						"Shipping":"M4",
+						"Rating":"M4"
+					},
+					"UPS First Class Mail":{
+						"Shipping":"M2",
+						"Rating":"M2"
+					},
+					"UPS Groud":{
+						"Shipping":"03",
+						"Rating":"03"
+					},
+					"UPS Next Day Air":{
+						"Shipping":"01",
+						"Rating":"01"
+					},
+					"UPS Next Day Air Early":{
+						"Shipping":"14",
+						"Rating":"14"
+					},
+					"UPS Next Day Ait Saver":{
+						"Shipping":"13",
+						"Rating":"13"
+					},
+					"UPS Priority Mail":{
+						"Shipping":"M3",
+						"Rating":"M3"
+					}
+				}
+			},
+			"Canada":{
+				
+			},
+			"European Union":{
+
+			},
+			"Mexico":{
+				
+			},
+			"Poland":{
+
+			},
+			"Puerto Rico":{
+				
+			},
+			"UndefinedCountriesorTerritories":{
+				"UPS Express":{
+					"Shipping":"07",
+					"Rating":"07"
+				},
+				"UPS Standard":{
+					"Shipping":"11",
+					"Rating":"11"
+				},
+				"UPS Worldwide Expedited":{
+					"Shipping":"08",
+					"Rating":"08"
+				},
+				"UPS Worldwide Express Plus":{
+					"Shipping":"54",
+					"Rating":"54"
+				},
+				"UPS Worldwide Saver":{
+					"Shipping":"65",
+					"Rating":"65"	
+				}
+			},
+			"All Countries or Territories":{
+				"UPS Worldwide Express Freight":{
+					"Shipping":"96",
+					"Rating":"96"
+				},
+				"UPS Priority Mail Innovations":{
+					"Shipping":"M5",
+					"Rating":"M5"
+				},
+				"UPS Economy Mail Innovations":{
+					"Shipping":"M6",
+					"Rating":"M6"
+				},
+				"UPS Worldwide Express Freight Mid-day":{
+					"Shipping":"71",
+					"Rating":"71"
+				}
+			}
+
+		}
+	}
+}
